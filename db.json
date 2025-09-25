@@ -1,1 +1,54 @@
-{}
+{
+  "benefits": [
+    {
+      "id": 1,
+      "title": "50% en Pizzas",
+      "category": "Comida",
+      "discount": "50%",
+      "image": "https://picsum.photos/400/200?random=1",
+      "description": "Disfrutá de un 50% de descuento en todas las pizzas grandes.",
+      "validDays": ["Lunes", "Martes", "Miércoles"],
+      "expirationDate": "2025-12-31"
+    },
+    {
+      "id": 2,
+      "title": "2x1 en Cines",
+      "category": "Entretenimiento",
+      "discount": "2x1",
+      "image": "https://picsum.photos/400/200?random=2",
+      "description": "Entradas al cine en formato 2x1 para cualquier función en salas 2D.",
+      "validDays": ["Jueves", "Viernes"],
+      "expirationDate": "2025-11-15"
+    },
+    {
+      "id": 3,
+      "title": "30% en Combustible",
+      "category": "Transporte",
+      "discount": "30%",
+      "image": "https://picsum.photos/400/200?random=3",
+      "description": "Obtené un 30% de descuento en carga de combustible en estaciones seleccionadas.",
+      "validDays": ["Todos"],
+      "expirationDate": "2025-10-30"
+    },
+    {
+      "id": 4,
+      "title": "20% en Hamburguesas",
+      "category": "Comida",
+      "discount": "20%",
+      "image": "https://picsum.photos/400/200?random=4",
+      "description": "20% de descuento en combos de hamburguesa con papas y bebida.",
+      "validDays": ["Viernes", "Sábado", "Domingo"],
+      "expirationDate": "2025-12-01"
+    },
+    {
+      "id": 5,
+      "title": "Descuento en Spotify",
+      "category": "Entretenimiento",
+      "discount": "40%",
+      "image": "https://picsum.photos/400/200?random=5",
+      "description": "40% off en suscripción Premium de Spotify durante 6 meses.",
+      "validDays": ["Todos"],
+      "expirationDate": "2026-01-10"
+    }
+  ]
+}
